@@ -10,6 +10,11 @@
 ### 团队最新取得竞赛获奖：
 + [研究生参赛团队在CVPR 2021竞赛中斩获亚军奖项](https://github.com/NjtechCVLab/Lastest-achievement/blob/main/CVPR2021_Chanllenge.png)
 + [2021本科生团队获全国大学生计算机设计大赛省二等奖](https://github.com/NjtechCVLab/Lastest-achievement/blob/main/2021_computer_design_JS.jpg)
++ 2020年本科生团队获全国大学生计算机设计大赛获三等奖
++ 2019年本科生团队获全国大学生计算机设计大赛获二等奖
++ 2018年本科生团队获全国大学生计算机设计大赛获三等奖
+
+
 
 
 
