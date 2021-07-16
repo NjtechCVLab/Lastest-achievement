@@ -10,9 +10,7 @@
 
 ### 团队最新取得竞赛获奖：
 + [研究生参赛团队在CVPR 2021竞赛中斩获亚军奖项](https://github.com/NjtechCVLab/Lastest-achievement/blob/main/CVPR2021_Chanllenge.png)
-+ [人群密度估计：Crowd Counting （最近更新）](https://github.com/NjtechCVLab/Level_2/tree/main/Crowd_Counting)
-+ [行为识别：Action Recognition](https://github.com/NjtechCVLab/Level_2/tree/main/Action_Recognition)
-+ [WIFI行为感知：Wifi Action](https://github.com/NjtechCVLab/Level_2/tree/main/Wifi_Action)
-+ [智能频谱共享技术：Intelligent spectrum dynamic sharing technology]
++ [本科生团队获全国大学生计算机设计大赛省二等奖](https://github.com/NjtechCVLab/Lastest-achievement/blob/main/2021_computer_design_JS.jpg)
+
 
 
