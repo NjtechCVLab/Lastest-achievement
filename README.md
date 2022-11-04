@@ -10,15 +10,15 @@
 
 ### 团队最新取得竞赛获奖：
 + :thumbsup::thumbsup::thumbsup:[研究生参赛团队在计算机视觉顶级国际会议CVPR 2021竞赛中斩获亚军奖项](https://github.com/NjtechCVLab/Lastest-achievement/blob/main/CVPR2021_Chanllenge.png)
-+ :tada::bowtie::bowtie::thumbsup:2022年本科生团队获全国大学生计算机设计大赛获一等奖
-+ :tada::bowtie::bowtie::thumbsup:2022年本科生团队获全国大学生计算机设计大赛获二等奖两项
-+ :tada::bowtie::bowtie::thumbsup:2022年本科生团队获全国大学生计算机设计大赛获三等奖
++ :tada::bowtie::bowtie::thumbsup:2022年本科生团队获全国大学生计算机设计大赛获全国一等奖
++ :tada::bowtie::bowtie::thumbsup:2022年本科生团队获全国大学生计算机设计大赛获全国二等奖两项
++ :tada::bowtie::bowtie::thumbsup:2022年本科生团队获全国大学生计算机设计大赛获全国三等奖
 + :tada::bowtie::bowtie::thumbsup:2022年本科生团队获“中国软件杯”大赛获全国三等奖
-+ 2021年本科生团队获全国大学生计算机设计大赛获二等奖
++ 2021年本科生团队获全国大学生计算机设计大赛获全国二等奖
 + [2021本科生团队获全国大学生计算机设计大赛省二等奖](https://github.com/NjtechCVLab/Lastest-achievement/blob/main/2021_computer_design_JS.jpg)
-+ 2020年本科生团队获全国大学生计算机设计大赛获三等奖
-+ 2019年本科生团队获全国大学生计算机设计大赛获二等奖
-+ 2018年本科生团队获全国大学生计算机设计大赛获三等奖
++ 2020年本科生团队获全国大学生计算机设计大赛获全国三等奖
++ 2019年本科生团队获全国大学生计算机设计大赛获全国二等奖
++ 2018年本科生团队获全国大学生计算机设计大赛获全国三等奖
 
 
 
